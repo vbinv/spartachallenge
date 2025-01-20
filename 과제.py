@@ -1,0 +1,2 @@
+def assignment():
+  print('assignment')
