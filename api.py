@@ -4,7 +4,7 @@ import numpy as np
 
 headers = {
     'accept': 'application/json',
-    'authorization': 'bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsIng1dCI6IktYMk40TkRDSTJ5NTA5NWpjTWk5TllqY2lyZyIsImtpZCI6IktYMk40TkRDSTJ5NTA5NWpjTWk5TllqY2lyZyJ9.eyJpc3MiOiJodHRwczovL2x1ZHkuZ2FtZS5vbnN0b3ZlLmNvbSIsImF1ZCI6Imh0dHBzOi8vbHVkeS5nYW1lLm9uc3RvdmUuY29tL3Jlc291cmNlcyIsImNsaWVudF9pZCI6IjEwMDAwMDAwMDA1NzE1OTgifQ.bP7GvgsnchBkT3mKmxF3zw4M4-7CWV5zLTpMBU2NMRvzhHzkIkZW_ayEb0VZ5qi8hWIBGchm9jJGyrzgz1N7UK3ZJ_nlK9wR_Jl1f7wOSjEFUNOXm5X4u-IUcxcC7OsaWhgsQBhZ18OzkxI0vTyq0qW-dcZ1EKbS7sn_Pi6MnVGMApAhX-b9-H8dxKoNUjLKIhWEjkTM2dhR869pChEK_-VoEHwFk-Tsmdd8B_oWCUG33Z4foSQqS0Q8Igh8mHgLFVEX8lvDg9ynB7QFE8LbFYr7REXMCXG2lg9_AWIMQgzmvUDM7nlkXSwoMWi4UZWaqxCJ0AbjHwKaDSjOLRFfWA'
+    'authorization': 'bearer api'
 }
 url = 'https://developer-lostark.game.onstove.com/auctions/items'
 data1 = {"ItemName": "10레벨 겁화", "Sort": "BUY_PRICE", "CategoryCode": 210000}
